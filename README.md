@@ -5,8 +5,8 @@ Play against the computer in a game of 3d Tic Tac Toe. Works on the principle of
 Steps to execute:-
 -------------------------------
 
-javac tictactoe.java
-java tictactoe
+Compile -> javac tictactoe.java
+Execute -> java tictactoe
 
 
 Modes Available :-
