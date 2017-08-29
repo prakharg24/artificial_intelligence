@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class assignment1
+public class tictactoe
 {
 	static int loc[][]=new int[28][3];
 	static int magic[][][] = new int[3][3][3];
